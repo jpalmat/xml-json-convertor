@@ -9,7 +9,6 @@ import org.w3c.dom.NodeList
 import org.xml.sax.SAXException
 import java.io.File
 import java.io.IOException
-import javax.script.ScriptEngine.FILENAME
 import javax.xml.XMLConstants
 import javax.xml.parsers.DocumentBuilderFactory
 import javax.xml.parsers.ParserConfigurationException
